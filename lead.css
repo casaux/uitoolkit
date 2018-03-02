@@ -1,0 +1,43 @@
+.header{
+	background:#0080A2;
+}
+
+.header .logo, .header .user{
+	margin:32px 0 32px 0;
+}
+
+.header .logo{
+	float:left;
+}
+
+.header .user{
+	float:right;
+}
+
+.footer{
+	background:#4C4C4C;
+	margin-top:80px;
+	min-height:200px;
+}
+
+.error{
+	color:#ea4200;
+}
+
+/*
+@media only screen and  (max-width: 575px) { 
+	.au-grid .container{background:red}
+}
+
+@media only screen and  (min-width: 576px) { 
+	.au-grid .container{background:pink}
+
+}
+
+@media only screen and  (min-width: 1010px) {
+	.au-grid .container{background:yellow}
+
+}
+*/
+
+
